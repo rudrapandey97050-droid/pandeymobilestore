@@ -1,0 +1,8 @@
+{
+  "name": "Pandey Mobile Store",
+  "description": "Pandey Mobile Store is a dedicated smartphone store located at Traffic Chowk, Butwal, Nepal. We specialize in providing a curated selection of both iPhone and Android smartphones with warranty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
